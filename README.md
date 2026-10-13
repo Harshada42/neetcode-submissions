@@ -3,10 +3,19 @@
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
+# NeetCode & Algorithmic Problem Solving
 
-## What is this?
+Automated repository tracking my daily Data Structures & Algorithms implementations, time/space complexity analyses, and pattern recognition exercises.
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+### 🎯 Roadmap & Focus Areas
+- **Arrays & Hashing:** Frequency counting, prefix arrays, two-pointer bounds.
+- **Two Pointers & Sliding Window:** Dynamic sub-array constraints and string processing.
+- **Stack & Binary Search:** Monotonic ordering and logarithmic search spaces.
+- **Trees & Graphs:** Recursive and iterative traversals (DFS/BFS), shortest paths.
+- **Heaps & Dynamic Programming:** Priority queues (Top-K elements) and optimal substructure memoization.
+
+### 📂 Directory Structure
+- All solutions are categorized by topic under [`Data Structures & Algorithms/`](./Data%20Structures%20&%20Algorithms) with clean Python implementations.
 
 ---
 
